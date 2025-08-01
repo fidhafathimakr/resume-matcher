@@ -1,0 +1,8 @@
+Name: Jane Doe
+ Experience:- Software Developer at TechCorp (2022 - Present)
+  - Built REST APIs using Django.
+  - Managed databases using PostgreSQL.
+  - Collaborated with frontend team using React.
+ Skills:- Python, Django, PostgreSQL- Git, Docker
+ Education:- B.Tech in Computer Science, XYZ University
+ Certifications:- Python for Everyone (Coursera)
